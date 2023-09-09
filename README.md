@@ -23,4 +23,4 @@ make sure jest is installed and run npm test in git
 
 ## walkthrough
 
-(link)
+[applicationWalkthrough]([URL](https://youtu.be/C0dYd2_d45c)https://youtu.be/C0dYd2_d45c)
